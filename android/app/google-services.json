@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522978543797",
+    "firebase_url": "https://fecit-26751.firebaseio.com",
+    "project_id": "fecit-26751",
+    "storage_bucket": "fecit-26751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522978543797:android:9b262132209159694616fc",
+        "android_client_info": {
+          "package_name": "com.fecit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522978543797-t5uovr0kk5a20nkg8hqo1bf58c1tt5ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiG2Dq98oK7iFlYWUaORMXRB--ZPLOBYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522978543797-t5uovr0kk5a20nkg8hqo1bf58c1tt5ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

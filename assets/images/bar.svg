@@ -1,0 +1,11 @@
+<svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu---cliente" transform="translate(-326.000000, -27.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group" transform="translate(326.000000, 27.000000)">
+                <rect id="Rectangle" x="0" y="14" width="24" height="2" rx="1"></rect>
+                <rect id="Rectangle" x="0" y="0" width="24" height="2" rx="1"></rect>
+                <rect id="Rectangle" x="0" y="7" width="24" height="2" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
