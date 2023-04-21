@@ -9,7 +9,7 @@ export const setData = async (key, value) => {
   }
 };
 
-export const getData = async (key) => {
+export const getData = async key => {
   try {
     const value = await AsyncStorage.getItem(key);
     return value;
@@ -18,7 +18,7 @@ export const getData = async (key) => {
   }
 };
 
-export const deleteData = async (key) => {
+export const deleteData = async key => {
   try {
     await AsyncStorage.removeItem(key);
     return true;
@@ -29,8 +29,8 @@ export const deleteData = async (key) => {
 
 export const setMultipleData = async (keyValuePairs, cb) => {
   const withStrigifiedValues = [];
-  
-  keyValuePairs.forEach((pair) => {
+
+  keyValuePairs.forEach(pair => {
     const keyValue = [pair[0], JSON.stringify(pair[1])];
     withStrigifiedValues.push(keyValue);
   });

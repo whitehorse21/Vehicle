@@ -20,76 +20,76 @@ import CreateNotification from '../components/screens/CreateNotification/Compone
 const screens = {
   Register: {
     id: 'Register',
-    screen: Register
+    screen: Register,
   },
   Login: {
     id: 'Login',
-    screen: Login
+    screen: Login,
   },
   UserType: {
     id: 'UserType',
-    screen: UserType
+    screen: UserType,
   },
   ProfilePic: {
     id: 'ProfilePic',
-    screen: ProfilePic
+    screen: ProfilePic,
   },
   Home: {
     id: 'Home',
-    screen: Home
+    screen: Home,
   },
   SideMenu: {
     id: 'SideMenu',
-    screen: SideMenu
+    screen: SideMenu,
   },
   ChatList: {
     id: 'ChatList',
-    screen: ChatList
+    screen: ChatList,
   },
   Chat: {
     id: 'Chat',
-    screen: Chat
+    screen: Chat,
   },
   ChooseVehicle: {
     id: 'ChooseVehicle',
-    screen: ChooseVehicle
+    screen: ChooseVehicle,
   },
   ChooseLocation: {
     id: 'ChooseLocation',
-    screen: ChooseLocation
+    screen: ChooseLocation,
   },
   FreightInfo: {
     id: 'FreightInfo',
-    screen: FreightInfo
+    screen: FreightInfo,
   },
   Carriers: {
     id: 'Carriers',
-    screen: Carriers
+    screen: Carriers,
   },
   Notification: {
     id: 'Notification',
-    screen: Notification
+    screen: Notification,
   },
   ShippingTracking: {
     id: 'ShippingTracking',
-    screen: ShippingTracking
+    screen: ShippingTracking,
   },
   AddVehicle: {
     id: 'AddVehicle',
-    screen: AddVehicle
+    screen: AddVehicle,
   },
   FreemiumRegister: {
     id: 'FreemiumRegister',
-    screen: FreemiumRegister
+    screen: FreemiumRegister,
   },
   Users: {
     id: 'Users',
-    screen: Users
+    screen: Users,
   },
   CreateNotification: {
     id: 'CreateNotification',
-    screen: CreateNotification
-  }
-}
+    screen: CreateNotification,
+  },
+};
 
 export default screens;
